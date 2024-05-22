@@ -36,7 +36,7 @@ def check_year_range():
         result_text_box.insert(END, "\n")
 
 window = Tk()
-window.geometry("900x500")
+window.geometry("500x500")
 window.title("Keliamųjų metų skaičiuoklė")
 window.resizable(width=False, height=False)
 
